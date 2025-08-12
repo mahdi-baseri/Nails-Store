@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- این نقشه سایت به صورت پویا بر روی آگوست 12, 2025 در 8:50 ق.ظ توسط All in One SEO - پلاگین جستجوگرها اصلی برای وردپرس تولید شد. -->
+
+<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=product_cat"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/product-category/ready-nail/]]></loc>
+		<lastmod><![CDATA[2025-02-17T15:29:55+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/product-category/ready-nail/simple-nail/]]></loc>
+		<lastmod><![CDATA[2025-02-18T22:40:17+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2025/02/d-text-rendering-word-simple-clean-minimalist-design-d-text-rendering-word-simple-clean-minimalist-331063497.jpg.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/product-category/ready-nail/simple-nail/simple-color/]]></loc>
+		<lastmod><![CDATA[2025-07-24T13:53:28+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/product-category/ready-nail/simple-nail/mirror-base/]]></loc>
+		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/product-category/ready-nail/simple-nail/simple-color/red-collection/]]></loc>
+		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2025/02/color-red.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/product-category/ready-nail/simple-nail/simple-color/pink-collection/]]></loc>
+		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2025/02/wallpapers.png-e1739919601653.webp]]></image:loc>
+		</image:image>
+	</url>
+</urlset>

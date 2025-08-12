@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- این نقشه سایت به صورت پویا بر روی آگوست 12, 2025 در 8:50 ق.ظ توسط All in One SEO - پلاگین جستجوگرها اصلی برای وردپرس تولید شد. -->
+
+<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=category"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/category/دسته‌بندی-نشده/]]></loc>
+		<lastmod><![CDATA[1970-01-01T00:00:00+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.3]]></priority>
+	</url>
+</urlset>

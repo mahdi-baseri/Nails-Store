@@ -1,0 +1,63 @@
+<svg id="Shahabjasemi" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="364" height="325" viewBox="0 0 364 325">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="770" y="36" width="364" height="325" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="10" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="5.477"/>
+      <feFlood result="flood" flood-color="#346" flood-opacity="0.12"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="786" y="46" width="332" height="304" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="10" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-color="#346" flood-opacity="0.1"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Shadowholder" class="cls-1" d="M1104,226h-10.23c-14.83,2.746-12.32,11.245-22.77,26l-4,5,0.03-.521a133.028,133.028,0,0,1-228.063,0L839,257l-4-5c-10.444-14.745-19.925-23.246-34.735-26H799V152.927c0.83,0.035,1.659.073,2.5,0.073,22.052,0,20.53-8.69,33.5-27l0.928-1.16a133.042,133.042,0,0,1,234.142,0L1071,126c12.67,17.889,11.92,26.59,33,26.981V226Z" transform="translate(-770 -36)"/>
+  <path id="Shadowfader" class="cls-2" d="M1090,217l-0.23,8c-14.83,2.746-9.32,11.245-19.77,26l-4,5,0.03-.521C1042.77,294.137,1001.41,320,953,320s-89.767-25.863-113.033-64.521L840,256l-4-5c-10.444-14.745-14.925-23.246-29.735-26L805,214V152.927c0.83,0.035,1.659.073,2.5,0.073,22.052,0,15.53-8.69,28.5-27l0.928-1.16C859.412,83.252,902.406,55,953,55s93.59,28.252,116.07,69.84L1070,126c12.67,17.889,6.92,26.59,28,26.981Z" transform="translate(-770 -36)"/>
+  <path id="Central_Curve" class="cls-3" d="M1116,226h-10.23c-14.83,2.746-24.32,11.245-34.77,26l-4,5,0.03-.521a133.028,133.028,0,0,1-228.063,0L839,257l-4-5c-10.444-14.745-19.925-23.246-34.735-26H786V152.927c0.83,0.035,1.659.073,2.5,0.073,22.052,0,33.53-8.69,46.5-27l0.928-1.16a133.042,133.042,0,0,1,234.142,0L1071,126c12.67,17.889,23.92,26.59,45,26.981V226Z" transform="translate(-770 -36)"/>
+</svg>
